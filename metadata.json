@@ -1,0 +1,7 @@
+{
+  "name": "Station Track System",
+  "description": "A high-security railway station verification system for digital entry/exit logging via QR codes, featuring role-based dashboards for Passengers, TCs, and Admins.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
